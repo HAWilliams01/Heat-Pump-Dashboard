@@ -8,6 +8,7 @@ import Information from "./components/information.component.js";
 function App() {
   return (
     <body>
+      
           <div>
       <Router>
     <div className="container">
