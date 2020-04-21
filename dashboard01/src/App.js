@@ -39,7 +39,7 @@ export default App;
 /*
 git init
 git add README.md
-git commit -m "first commit"
+git commit -m "first"
 git remote add origin https://github.com/HAWilliams01/Heat-Pump-Dashboard.git
 git push -u origin master
 */
