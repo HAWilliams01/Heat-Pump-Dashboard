@@ -1,0 +1,17 @@
+body {
+  background-color: #36454f;
+  min-height: 100%;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.dashboard {
+  color: white;
+  font-weight: 600;
+  animation: mymove 6s infinite;
+}
+
+@keyframes mymove {
+  50% {color: #FA4616;}
+}
+
+
