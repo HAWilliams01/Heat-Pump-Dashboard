@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6d608c5a8157b8daa012dfc4d5341d6",
+    "revision": "9444d3faf8fbb83341a2809bfae88e76",
     "url": "/Heat-Pump-Dashboard/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Heat-Pump-Dashboard/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "1bac275f7a02065a3d47",
+    "revision": "a2b3ca43aa49ebacb518",
     "url": "/Heat-Pump-Dashboard/static/css/main.4c21017e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Heat-Pump-Dashboard/static/js/2.b3f72192.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1bac275f7a02065a3d47",
-    "url": "/Heat-Pump-Dashboard/static/js/main.891b1410.chunk.js"
+    "revision": "a2b3ca43aa49ebacb518",
+    "url": "/Heat-Pump-Dashboard/static/js/main.3ffaaec4.chunk.js"
   },
   {
     "revision": "3cc34c928114bc06779d",
